@@ -20,9 +20,9 @@ An API for all your fox image needs
 """
 url {
   src:
-    "https://github.com/Foxes-cool/Foxes-Ocaml/archive/refs/tags/1.0.0.tar.gz"
+    "https://github.com/Foxes-cool/Foxes-Ocaml/archive/refs/tags/1.0.1.tar.gz"
   checksum: [
-    "md5=5f74dcbcb58365a1a0bf2a3763fcaf89"
-    "sha512=49b7b7fede55bafc5e2121bf2652dfce006a816c53a5bc8e6b92da2e3e8841dde84d2d3a9ca0e416bd4127669fc88e55714e3395a6fbe6e878988e2d239b5b58"
+    "md5=f72e3233dbacd3f8b5ed980fb5817b7f"
+    "sha512=39ce281c7cf14b6431410891d995932595443ee37284d0316d3f0ad032713a6c605a423c21e84b640fa3dc6162c645bca392e0bd24b12348d8e9380d6ddca4ed"
   ]
 }
